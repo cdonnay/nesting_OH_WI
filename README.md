@@ -1,6 +1,9 @@
 # 3:1 Nesting in Redistricting 
 
 ## Replicating our Results
+We added a few new methods to the `gerrychain` package; you can find our forked version of the package at this [repository](https://github.com/cdonnay/GerryChain).
+Our conda `enviornment.yml` file should also automatically use this installation.
+
 In order to replicate our results, you can either start with the file `1_preprocessing.py` or with `2a_biased_house_maps.py` and `2b_ensemble_analysis.py`. 
 The former constructs the necessary dual graphs, while the latter runs our analysis and generates our figures.
 We ran these using the bash script `run_python_file.sh`.
