@@ -1,0 +1,46 @@
+/cluster/tufts/mggg/cdonna01/triple_nesting/new_code/2b_figs.py:54: ResourceWarning: unclosed file <_io.BufferedReader name=4>
+  for i,plan in enumerate(Replay(graph, f"../old_code/{state}_{chain_type}_{seed}.chain", updaters = election_updaters)):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+swap chain ended E
+swap chain ended E
+swap chain ended S1
+swap chain ended S1
+swap chain ended S2
+swap chain ended S2
+recom chain ended E
+recom chain ended D
+recom chain ended I
+recom chain ended C
+seats won ranges
+OH
+SEN18
+Swap
+['E', 'S1', 'S2']
+[14, 14, 14]
+[23, 23, 23]
+seats won ranges
+OH
+SEN18
+ReCom
+['E', 'D', 'I', 'C']
+[13, 13, 13, 13]
+[24, 23, 24, 23]
+seats won ranges
+OH
+TRES18
+Swap
+['E', 'S1', 'S2']
+[8, 8, 7]
+[17, 18, 18]
+seats won ranges
+OH
+TRES18
+ReCom
+['E', 'D', 'I', 'C']
+[7, 7, 7, 7]
+[18, 17, 17, 17]
+seats won fig doe
+comparing swpa to recom fig done
+autocorrelates done
+sliced boxplot done
+diffferent seeds done
