@@ -19,7 +19,7 @@ In this case, we use the 2010 population data as a stand in.
 
 ## Neutral Senate Ensembles
 The file 
-- `2b_figs.py` generates the figures that analyze convergence and distributions of neutral senate ensembles given that the chaisn were already saved by `pcompress` and the file `2b_ensemble_analysis.py` was run.
+- `2b_figs.py` generates the figures that analyze convergence and distributions of neutral senate ensembles given that the chains were already saved by `pcompress` (which came from  the file `Arxiv Draft/2b_ensemble_analysis.py`).
 
 ## Mitigating Gerrymandering
 The following code files were used to generate biased house and senate maps, as well as run neutral chains on top of biased house maps:
