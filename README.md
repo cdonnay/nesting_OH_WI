@@ -18,7 +18,7 @@ There are a few `NA` errors caused by precincts that have no blocks assigned to 
 In this case, we use the 2010 population data as a stand in.
 
 ## Neutral Senate Ensembles
-The file 
+
 - `2b_figs.py` generates the figures that analyze convergence and distributions of neutral senate ensembles given that the chains were already saved by `pcompress` (which came from  the file `Arxiv Draft/2b_ensemble_analysis.py`).
 
 ## Mitigating Gerrymandering
