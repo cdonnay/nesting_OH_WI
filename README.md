@@ -1,7 +1,7 @@
 # 3:1 Nesting in Redistricting 
 
 ## Replicating our Results
-Significant improvements to the gerrychain codebase, usage of a cluster, as well as helpful suggestions from a reviewer resulted in changes to both underlying code and figures between the arxiv preprint and journal version. Old code and figures can be found in the "Arxiv Draft" folder. the various *.sh files are bash scripts used to run code in a cluster.
+Significant improvements to the gerrychain codebase, usage of a cluster, as well as helpful suggestions from a reviewer resulted in changes to both underlying code and figures between the arxiv preprint and journal version. Old code and figures can be found in the "Arxiv Draft" folder. The various *.sh files are bash scripts used to run code in a cluster.
 
 ## Preprocessing
 ### `1_preprocessing.py`
